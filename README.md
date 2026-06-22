@@ -1,6 +1,6 @@
 # 💫 Sobre me:
 Desarrollador *Frontend*, actualmente trabajando en Alsoftpro
-
+[mas sobre mi](https://chriscampadev.github.io/portfolio/)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christiancampa546@gmail.com) 
