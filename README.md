@@ -1,5 +1,6 @@
 # 💫 Sobre me:
 Desarrollador *Frontend*, actualmente trabajando en Alsoftpro
+
 [mas sobre mi](https://chriscampadev.github.io/portfolio/)
 
 ## 🌐 Socials:
